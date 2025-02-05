@@ -14,6 +14,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## 📊 GitHub Stats:
-![Zaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freakzen&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaidchinchali&show_icons=true&theme=dark)
+
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freakzen&layout=compact)
