@@ -79,8 +79,6 @@ If you enjoy my content or find my projects helpful:
 
 ## 📌 Featured Projects
 
-> Replace the `your-project-x` with actual repo names
-
 <p align="center">
   <a href="https://github.com/freakzen/project-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=freakzen&repo=project-1&theme=radical" />
